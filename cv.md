@@ -19,7 +19,12 @@ I am a qualified full-stack web-developer with over a year of experience. Before
 
 ## Education:
 * *March 2022 - March 2023*
-+ Rolling Scopes School - JS / FRONT-END COURSE
+    Rolling Scopes School - JS / FRONT-END COURSE
 
 * *2005 - 2011*
-+ Higher School of Economics / ESCP Paris
+    Higher School of Economics / ESCP Paris
+
+## Experience:
+* *2012 - 2021*
+    Investment Analyst / Manager    
+
