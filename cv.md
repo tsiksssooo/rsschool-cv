@@ -17,3 +17,9 @@ I am a qualified full-stack web-developer with over a year of experience. Before
 * MongoDB
 * Node.js
 
+## Education:
+* *March 2022 - March 2023*
++ Rolling Scopes School - JS / FRONT-END COURSE
+
+* *2005 - 2011*
++ Higher School of Economics / ESCP Paris
