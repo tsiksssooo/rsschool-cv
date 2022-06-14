@@ -1,0 +1,166 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: calc(100% - 20px);
+    }
+  }
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+}
+
+h2 {
+color: rgb(17, 85, 112);
+
+}
+
+h3 {
+    color: rgb(17, 85, 112);
+    letter-spacing: 0.2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px; 
+}
+
+.main-header {
+    width: 100%;
+    background-color: rgb(17, 85, 112);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: 0.2s;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-link-project {
+    color: rgb(17, 85, 112);;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+
+
+
+.section {
+    width: calc(50% - 20px);
+    padding: 10px 0px 10px;
+    margin: 10px;
+    border-bottom: 1px solid rgb(17, 85, 112);
+}
+
+.section-name {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 50px 20px 35px;
+    border-bottom: 2px dashed #d7d1c9;
+}
+
+.section-profile-name {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.credentials {
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(17, 85, 112);
+}
+
+.section-item a {
+    color: #829985;
+    text-decoration: none;
+}
+
+
+.profile-picture {
+    border-radius: 50%;
+    width: 250px;
+    box-shadow: 0 2px 4px gray;
+}
+
+
+.rss {
+    width: 100px;
+    padding-top: 10px;
+}
+
+
+
+.main-footer {
+    width: 100%;
+    background-color: rgb(17, 85, 112);
+    padding: 10px;
+    color: #fff;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;;
+    padding: 0 20px;
+    line-height: 45px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.github {
+    color: aliceblue;
+    text-decoration: none;
+}
+
