@@ -101,6 +101,7 @@ a:hover {
     flex-wrap: wrap;
     padding: 50px 20px 35px;
     border-bottom: 2px dashed #d7d1c9;
+    background: rgba(255, 255, 255, 0.598);
 }
 
 .section-profile-name {
